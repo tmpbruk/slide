@@ -21,6 +21,7 @@ overflow: hidden;
 
 .slide{
   display: flex;
+  
 }
 
 .slide li {
